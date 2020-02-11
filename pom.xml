@@ -68,7 +68,7 @@
         <uniqueVersion>true</uniqueVersion>
         <id>snapshot-repo</id>
         <name>zegoggles Snapshots</name>
-        <url>http://zegoggl.es:8081/nexus/content/repositories/snapshots/</url>
+        <url>https://zegoggl.es:8081/nexus/content/repositories/snapshots/</url>
       </snapshotRepository>
     </distributionManagement>
 
